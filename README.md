@@ -10,6 +10,9 @@ https://user-images.githubusercontent.com/101134812/167417567-5cb7459c-b1df-48c6
 # O projeto
  O contador mostra os dias, horas, minutos e segundos que faltam da data atual até a data desejada (inserida pelo input).
  Atualização a cada 1 segundo. 
+ 
+# Link do projeto
+https://amandabartolo.github.io/countdown_timer/
 
 # Tecnologias utilizadas
 * HTML
