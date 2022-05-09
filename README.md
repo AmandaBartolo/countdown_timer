@@ -1,15 +1,14 @@
 # Countdown timer
-Contador de tempo restante (11/01/2023 - meu próximo aniversário) responsivo.
+Contador de tempo restante com layout responsivo.
 
 # Pré-visualização
 <div align="center">
  
-![countdown timer cel](https://user-images.githubusercontent.com/101134812/167177992-263830bb-432f-4790-ac76-527c74d36fb0.png)
-![countdown timer pc](https://user-images.githubusercontent.com/101134812/167177999-1a68d098-2cbc-4441-b9c3-3578fc428947.png)
+https://user-images.githubusercontent.com/101134812/167417567-5cb7459c-b1df-48c6-b57c-2644a374f103.mp4
 </div>
 
 # O projeto
- O contador mostra os dias, horas, minutos e segundos que faltam de hoje até a data desejada (11/01/2023).
+ O contador mostra os dias, horas, minutos e segundos que faltam da data atual até a data desejada (inserida pelo input).
  Atualização a cada 1 segundo. 
 
 # Tecnologias utilizadas
